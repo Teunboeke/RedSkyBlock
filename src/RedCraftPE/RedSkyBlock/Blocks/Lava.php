@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace RedCraftPE\RedSkyBlock\Blocks;
+namespace Teunboeke\RedSkyBlock\Blocks;
 
 use pocketmine\entity\Entity;
 use pocketmine\event\entity\EntityCombustByBlockEvent;
